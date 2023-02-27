@@ -1,0 +1,20 @@
+*Monsters
+*NAME | Level | Health | Attack | Defense | Value | Exp value
+Slime | 1 | 4 | 2 | 1 | 1 | 1
+Slime | 1 | 4 | 2 | 1 | 1 | 1
+Slime | 1 | 4 | 2 | 1 | 1 | 1
+Slime | 1 | 4 | 2 | 1 | 1 | 1
+Slime | 2 | 5 | 2 | 1 | 1 | 2
+Slime | 2 | 5 | 2 | 1 | 1 | 1
+Slime | 2 | 5 | 2 | 1 | 1 | 2
+Rat | 2 | 5 | 3 | 1 | 2 | 2
+Rat | 2 | 5 | 3 | 1 | 2 | 2
+Bat |2 | 6 | 3 | 2 | 2 | 2
+Hound | 3 | 12 | 4 | 3 | 3 | 2
+Bat |2 | 6 | 3 | 2 | 2 | 2
+Goblin | 4 | 16 | 6 | 4 | 4 | 3
+Skeleton | 5 | 20 | 6 | 3 | 5 | 3
+Hobgoblin | 7 | 30 | 8 | 4 | 5 | 5
+Lich | 10 | 30 | 10 | 3 | 7 | 6
+Troll | 12 | 50 | 8 | 5 | 8 | 8
+Dullahan | 15 | 45 | 12 | 5 | 10 | 15

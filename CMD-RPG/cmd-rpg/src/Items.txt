@@ -1,0 +1,15 @@
+*Items
+*type | NAME | Stat | Cost 
+weapon |wooden sword| 1 | 1
+weapon | bronze sword  | 2 | 3
+weapon | iron sword| 4 | 5
+weapon | Rapier | 6 | 6
+weapon | Katana | 10 | 10
+armor | leather armor | 2 | 1
+armor | chainmail armor | 5 | 3
+armor | iron armor | 10 | 5
+armor | suit of armor | 20 | 10
+shield | wooden shield | 1 | 2
+shield | bronze shield | 2 | 4
+shield | iron shield | 4 | 6
+shield | vibranium shield | 6 | 10
